@@ -1,6 +1,6 @@
 # Audio-y-Video
 
-Diseño del aplicativo Reproductor de Audio y Video
+
 El reproductor de video y audio proporciona una interfaz y un conjunto de funciones que permiten  reproducir, pausar el video 
 
 Codigo de la interfaz
@@ -177,6 +177,9 @@ public class MainActivity extends AppCompatActivity {
 Resultado
 
 ![image](https://github.com/Mhela4444/Audio-y-Video/assets/133244582/f933ab6f-00a8-45ec-adf7-31f4aaf55e4f)
+![WhatsApp Image 2023-06-25 at 23 12 59 (1)](https://github.com/Mhela4444/Audio-y-Video/assets/133244582/7275b55a-e2db-4c3a-8604-24178cfd268d)
+
+
 
 
 
